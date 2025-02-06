@@ -25,7 +25,6 @@ Module fortuneCookie
             Case 5
                 Console.WriteLine("You are the dragon warrior... What is your name again?")
         End Select
-
     End Sub
 
     Function RandomNumberBetween(min As Integer, max As Integer) As Integer
