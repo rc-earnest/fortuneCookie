@@ -1,7 +1,8 @@
-﻿
-
-
-
+﻿'Rudy Earnest
+'RCET 2265
+'Spring 2025
+'Fortune Cookie
+'https://github.com/rc-earnest/BetterCalculator.git
 Option Strict On
 Option Explicit On
 Option Compare Text
